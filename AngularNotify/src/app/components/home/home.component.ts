@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { HubConnectionBuilder, HubConnection } from '@aspnet/signalr';
+// npm install @aspnet/signalr --save
 import { environment } from 'src/environments/environment';
 
 @Component({
