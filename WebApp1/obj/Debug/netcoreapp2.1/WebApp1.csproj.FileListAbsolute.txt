@@ -1,0 +1,14 @@
+C:\Users\Eduardo Júnior\Desktop\WebApp1\WebApp1\bin\Debug\netcoreapp2.1\WebApp1.deps.json
+C:\Users\Eduardo Júnior\Desktop\WebApp1\WebApp1\bin\Debug\netcoreapp2.1\WebApp1.runtimeconfig.json
+C:\Users\Eduardo Júnior\Desktop\WebApp1\WebApp1\bin\Debug\netcoreapp2.1\WebApp1.runtimeconfig.dev.json
+C:\Users\Eduardo Júnior\Desktop\WebApp1\WebApp1\bin\Debug\netcoreapp2.1\WebApp1.dll
+C:\Users\Eduardo Júnior\Desktop\WebApp1\WebApp1\bin\Debug\netcoreapp2.1\WebApp1.pdb
+C:\Users\Eduardo Júnior\Desktop\WebApp1\WebApp1\obj\Debug\netcoreapp2.1\WebApp1.csprojAssemblyReference.cache
+C:\Users\Eduardo Júnior\Desktop\WebApp1\WebApp1\obj\Debug\netcoreapp2.1\WebApp1.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo Júnior\Desktop\WebApp1\WebApp1\obj\Debug\netcoreapp2.1\WebApp1.RazorAssemblyInfo.cache
+C:\Users\Eduardo Júnior\Desktop\WebApp1\WebApp1\obj\Debug\netcoreapp2.1\WebApp1.RazorAssemblyInfo.cs
+C:\Users\Eduardo Júnior\Desktop\WebApp1\WebApp1\obj\Debug\netcoreapp2.1\WebApp1.AssemblyInfoInputs.cache
+C:\Users\Eduardo Júnior\Desktop\WebApp1\WebApp1\obj\Debug\netcoreapp2.1\WebApp1.AssemblyInfo.cs
+C:\Users\Eduardo Júnior\Desktop\WebApp1\WebApp1\obj\Debug\netcoreapp2.1\WebApp1.RazorTargetAssemblyInfo.cache
+C:\Users\Eduardo Júnior\Desktop\WebApp1\WebApp1\obj\Debug\netcoreapp2.1\WebApp1.dll
+C:\Users\Eduardo Júnior\Desktop\WebApp1\WebApp1\obj\Debug\netcoreapp2.1\WebApp1.pdb
